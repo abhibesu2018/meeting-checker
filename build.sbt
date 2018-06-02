@@ -6,7 +6,7 @@ name := "meeting-checker"
 
 version := "0.1.0-SNAPSHOT"
 
-scalaVersion := "2.12.6"
+scalaVersion := "2.11.8"
 
 resolvers += Classpaths.typesafeReleases
 
