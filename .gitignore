@@ -58,6 +58,7 @@ jrebel.lic
 .ensime*
 *.sublime-*
 .cache
+.cache-main
 
 # intellij
 *.eml
